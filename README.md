@@ -3,7 +3,6 @@
 - Learning JS, HTML, CSS
 - Only learning, little things mainly. 
 
-<!---
-pissmeister/pissmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://count.getloli.com/get/@starcraft66?theme=gelbooru" />
+</p>
