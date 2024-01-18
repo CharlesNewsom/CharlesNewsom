@@ -3,5 +3,5 @@
 - Occasionally teaching myself HTML & CSS.
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@pissmeister?theme=gelbooru" />
+  <img src="https://count.getloli.com/get/@CharlesNewsom?theme=gelbooru" />
 </p>
