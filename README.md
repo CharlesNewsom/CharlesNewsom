@@ -1,6 +1,6 @@
 - Charles Newsom
-- Primarily JS projects.
-- Occasionally teaching myself HTML & CSS.
+- Literally a shitpost.
+- I code maybe once in a blue moon.
 
 <p align="center">
   <img src="https://count.getloli.com/get/@CharlesNewsom?theme=gelbooru" />
